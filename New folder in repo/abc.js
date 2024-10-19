@@ -1,0 +1,1 @@
+/* This izz sample js fille */
